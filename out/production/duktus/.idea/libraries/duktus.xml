@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="duktus">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/duktus.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
